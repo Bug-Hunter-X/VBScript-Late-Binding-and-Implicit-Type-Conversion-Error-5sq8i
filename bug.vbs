@@ -1,0 +1,1 @@
+Late Binding:  VBScript allows late binding, meaning you don't explicitly declare variable types. This can lead to runtime errors that are difficult to track down during development because type mismatches aren't caught until execution.  For example, attempting to perform arithmetic on a string variable will throw an error only when that line is reached.
